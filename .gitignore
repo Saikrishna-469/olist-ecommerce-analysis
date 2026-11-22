@@ -1,0 +1,6 @@
+# Raw data and built database (rebuild with load.py)
+data/raw/
+data/*.duckdb
+# Python virtualenv used for the build
+.venv/
+__pycache__/

@@ -1,0 +1,5 @@
+payment_type,delivered_orders,aov_brl,median_order_value_brl,avg_installments,avg_freight_pct
+credit_card,72122,142.95,89.9,3.54,29.59
+boleto,19191,121.4,74.9,1.0,34.4
+debit_card,1484,119.86,70.45,1.0,32.01
+voucher,1498,85.91,53.99,1.0,41.7

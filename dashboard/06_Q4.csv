@@ -1,0 +1,6 @@
+price_band,delivered_orders,avg_order_value_brl,avg_freight_brl,avg_freight_pct,median_freight_pct,share_freight_ge_50pct
+Under R$50,28791,31.84,15.4,56.98,46.35,44.96
+R$50–100,27726,75.45,19.14,26.12,22.94,5.78
+R$100–200,25313,143.68,24.94,17.8,14.35,2.41
+R$200–500,11148,297.93,35.12,12.17,8.75,1.01
+R$500+,3500,929.92,57.57,6.89,4.29,0.2
